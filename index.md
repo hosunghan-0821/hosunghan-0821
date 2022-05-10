@@ -3,4 +3,4 @@ layout: home
 author_profile: true
 ---
 
-# ABOUT me
+# 나에 대해서
