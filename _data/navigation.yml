@@ -3,7 +3,7 @@ main:
   - title: "cateogry"
     url : /categories/
 docs:
-  - title: "대목차"
+  - title: "목차"
     children:
       - title: "category"
         url: /categories/
